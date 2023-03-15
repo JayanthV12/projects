@@ -1,0 +1,33 @@
+.project-container {
+  background-color: white;
+  min-height: 100vh;
+  background-size: cover;
+}
+.nav-container {
+  background-color: #cbd5e1;
+  height: 15vh;
+  background-size: cover;
+  padding-left: 20px;
+}
+.logo {
+  height: 100px;
+  width: 100px;
+}
+.select-container {
+  height: 40px;
+  width: 200px;
+  border-width: 2px;
+  border-radius: 12px;
+  margin: 24px;
+}
+.list-item {
+  list-style-type: none;
+  margin: 12px;
+  height: 200px;
+  width: 200px;
+}
+.projects-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
